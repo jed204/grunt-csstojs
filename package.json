@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "grunt-csstojs@^0.2.0",
+        "scope": null,
+        "escapedName": "grunt-csstojs",
+        "name": "grunt-csstojs",
+        "rawSpec": "^0.2.0",
+        "spec": ">=0.2.0 <0.3.0",
+        "type": "range"
+      },
+      "/Users/jed/Desktop/CLONE/textrecruit-java/jobchat-client"
+    ]
+  ],
+  "_from": "grunt-csstojs@>=0.2.0 <0.3.0",
+  "_id": "grunt-csstojs@0.2.0",
+  "_inCache": true,
+  "_location": "/grunt-csstojs",
+  "_npmUser": {
+    "name": "danielstocks",
+    "email": "daniel@webcloud.se"
+  },
+  "_npmVersion": "1.3.11",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "grunt-csstojs@^0.2.0",
+    "scope": null,
+    "escapedName": "grunt-csstojs",
+    "name": "grunt-csstojs",
+    "rawSpec": "^0.2.0",
+    "spec": ">=0.2.0 <0.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/grunt-csstojs/-/grunt-csstojs-0.2.0.tgz",
+  "_shasum": "46f63d156f3545b0a8cec0dc0250bcf85071af49",
+  "_shrinkwrap": null,
+  "_spec": "grunt-csstojs@^0.2.0",
+  "_where": "/Users/jed/Desktop/CLONE/textrecruit-java/jobchat-client",
+  "author": {
+    "name": "Daniel Stocks",
+    "email": "daniel@webcloud.se",
+    "url": "http://webcloud.se/"
+  },
+  "bugs": {
+    "url": "https://github.com/danielstocks/grunt-CSStoJS/issues"
+  },
+  "dependencies": {},
+  "description": "Transforms your CSS to a JavaScript string",
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "46f63d156f3545b0a8cec0dc0250bcf85071af49",
+    "tarball": "https://registry.npmjs.org/grunt-csstojs/-/grunt-csstojs-0.2.0.tgz"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "homepage": "https://github.com/danielstocks/grunt-CSStoJS",
+  "keywords": [
+    "gruntplugin"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/danielstocks/grunt-CSStoJS/blob/master/LICENSE-MIT"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "danielstocks",
+      "email": "daniel@webcloud.se"
+    }
+  ],
+  "name": "grunt-csstojs",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielstocks/grunt-CSStoJS.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "version": "0.2.0"
+}
